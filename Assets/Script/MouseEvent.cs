@@ -13,7 +13,7 @@ public class MouseEvent : MonoBehaviour
     //public Text btn1;
     //public Text btn2;
 
-    private void FixedUpdate()
+    private void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {

@@ -1,0 +1,11 @@
+장소,번호,퀘스트 내용,O,X,수행시간,환경 정화도,환경 오염도
+야외,1,You want to order coffee.  Would you like to use disposable cups or tumbler?,tumbler,paper cup,10,6,4
+"방, 야외",2,Many computers that are not used in the PC room are working. Are you sure you want to shut down a computer that is not running?,yes,no,5,7,3
+PC방,3,The fire is on. Do you want to turn it off before going out?,yes,no,10,,10
+"방, PC방",4,The cord is plugged into the microwave that you don't use is plugged in. Will you pick one?,yes,no,20,6,4
+방,5,There's a lot of frost in the refrigerator. Are you sure you want to remove it?,yes,no,0,9,1
+all,6,The fridge is full of food. Are you sure you want to arrange it so that it only fills 60 percent?,yes,no,0,7,3
+야외 제외 all,7,Where would you like to throw away the receipt?,general,paper,5,5,5
+야외,8,Where would you like to throw away your toothbrush?,general,plastic,10,4,6
+실내,9,The medicine is too old to take. Where would you like to throw the medicine away?,pharmacy,trash bin,10,6,4
+야외,10,There are a lot of e-mails are piled up. Would you like to delete something doesn't important?,yes,no,5,4,6
